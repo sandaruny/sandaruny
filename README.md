@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandaruny" alt="sandaruny" /></a> </p>
 
-- 🔭 I’m currently working on [Netlise](https://netlise.com)
-
-- 📝 I regularly write articles on [https://sandny.com](https://sandny.com)
-
 - 📫 How to reach me **sandaruwan@zegates.com**
 
 <h3 align="left">Connect with me:</h3>
